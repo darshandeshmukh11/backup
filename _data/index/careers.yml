@@ -1,29 +1,73 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: TekSystems at Cisco (Bangalore)
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: CI/CD implementation    
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Oct. 2016
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: DevOps Engineer
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Capgemini (Bangalore)
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Automation Testing | CI/CD | 
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Jan. 2015
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Sr. Consultant (DevOps, Scrum Master)
     i18n: company_b_job
   icon: fa-plus-square
+
+- name:
+    detail: Spotzot India Pvt.Ltd. (Pune-Bangalore)
+    i18n: company_c
+  desc:
+    detail: Automation Testing | DevOps | 
+    i18n: company_c_desc
+  date:
+    detail: Sept. 2013
+    i18n: company_c_date
+  job:
+    detail: Sr. Test Engineer
+    i18n: company_c_job
+  icon: fa-plus-square
+
+- name:
+    detail: Xento Systems (Pune)
+    i18n: company_d
+  desc:
+    detail: Automation Testing 
+    i18n: company_d_desc
+  date:
+    detail: Feb. 2011
+    i18n: company_d_date
+  job:
+    detail: QA Engineer
+    i18n: company_d_job
+  icon: fa-plus-square
+
+- name:
+    detail: GlobalStep Services Pvt.Ltd. (Pune)
+    i18n: company_e
+  desc:
+    detail: Compliance testing for gaming titles on PlayStation®3, Xbox 360 and Wii. Key challenges were end to end functionality, standards,compatibility and testing hardware/accessories with embedded game software.Compliance testing for gaming titles on PlayStation®3, Xbox 360 and Wii. Key challenges were end to end functionality, standards,compatibility and testing hardware/accessories with embedded game software.
+    i18n: company_e_desc
+  date:
+    detail: Dec. 2009
+    i18n: company_e_date
+  job:
+    detail: Test Engineer
+    i18n: company_e_job
+  icon: fa-plus-square
+
+
