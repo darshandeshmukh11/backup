@@ -1,2 +1,2 @@
-# darshandeshmukh11.github.io
-Personal website
+# My website
+Inspired and forked from - https://github.com/jarrekk/Jalpc
