@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: QA Jenkins Kubernetes Docker Drone 
+aspects: QA, Jenkins, Kubernetes, Docker, Drone 
 percentage: 80, 75, 30, 50, 80
