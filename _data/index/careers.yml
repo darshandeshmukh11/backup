@@ -70,4 +70,16 @@
     i18n: company_e_job
   icon: fa-plus-square
 
-
+- name:
+    detail: BE(Computer Science)
+    i18n: company_d
+  desc:
+    detail: Pune University  
+    i18n: company_d_desc
+  date:
+    detail: July. 2009
+    i18n: company_d_date
+  job:
+    detail: Student
+    i18n: company_d_job
+  icon: fa-plus-square
