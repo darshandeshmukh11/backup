@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-aws
     - name: icon-python
-  desc: I am a DevOps Engineer by profession. I started my career as a Software Tester and now I help teams to operationalize their code from local machine to production server. Specialities: Pipeline as a Code | Infrastructure as a Code   # Describe yourself.
+  desc: I am a DevOps Engineer by profession. I started my career as a Software Tester and now I help teams to operationalize their code from local machine to production server. Specialities - Pipeline as a Code, Infrastructure as a Code   # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
